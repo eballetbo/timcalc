@@ -1,0 +1,14 @@
+timcalc.py will help you determine the optimal values for the AC timing registers for various memories.
+
+Memories device summary:
+    Hynix
+        H9DH4G4JJAPER series
+    Micron
+        MT29C4G48MAYAPAKQ-5 IT, MT29C4G48MAZAPAKQ-5 IT,
+        MT29C4G48MAZAPAKQ-6 IT, MT29C4G96MAZAPCJG-5 IT,
+        MT29C4G96MAZAPCJG-6 IT, MT29C8G96MAZAPDJV-5 IT,
+        MT29C8G96MAZAPDJV-6 IT
+    Numonyx
+        M65G002AM, M65D002AM
+
+See http://processors.wiki.ti.com/index.php/Setting_up_AM37x_SDRC_registers
