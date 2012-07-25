@@ -2,15 +2,16 @@
 
 """
 
-""" H9DH4G4JJAPER : SDRC parameters for a given SDRC clock rate
+""" H9DH4GHxxJAPER : SDRC parameters for a given SDRC clock rate
 
 Device summary:
-    H9DH4G4JJAPER series
+    H9DH4GH4JJAPER series - NAND 4Gb(x16) / Mobile DDR 4Gb(x32)
+    H9DH4GH2GJAPER series - NAND 4Gb(x16) / Mobile DDR 1Gb(x32)
 
 Datasheet : Are available from your local Hynix distributor
  
 """
-h9dh4gh4jjaper = [
+h9dh4ghxxjaper = [
         { # 200 MHz
          "tCK" : 5,
          "tRFC" : 90, "tRC" : 40 + 15, "tRAS" : 40, "tRP" : 15, "tRCD" : 15,

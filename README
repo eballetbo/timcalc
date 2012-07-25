@@ -2,7 +2,8 @@ timcalc.py will help you determine the optimal values for the AC timing register
 
 Memories device summary:
     Hynix
-        H9DH4G4JJAPER series
+        H9DH4GH4JJAPER series - NAND 4Gb(x16) / Mobile DDR 4Gb(x32)
+        H9DH4GH2GJAPER series - NAND 4Gb(x16) / Mobile DDR 1Gb(x32)
     Micron
         MT29C4G48MAYAPAKQ-5 IT, MT29C4G48MAZAPAKQ-5 IT,
         MT29C4G48MAZAPAKQ-6 IT, MT29C4G96MAZAPCJG-5 IT,
