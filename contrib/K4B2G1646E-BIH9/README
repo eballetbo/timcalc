@@ -1,0 +1,8 @@
+The following information describes how to set the EMIF registers in the AM335x
+EMIF module depending on the DDR memory that you are using (LPDDR, DDR2, or DDR3).
+
+ o http://processors.wiki.ti.com/index.php/AM335x_DDR_PHY_register_configuration_for_DDR3_using_Software_Leveling
+ o http://processors.wiki.ti.com/index.php/AM335x_EMIF_Configuration_tips
+
+The files in this directory were used to calculate the timings for IGEP COM AQUILA processor.
+

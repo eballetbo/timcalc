@@ -1,0 +1,16 @@
+[CortxA8] 
+[CortxA8] Optimal values have been found!!
+[CortxA8] 
+[CortxA8] ***************************************************************
+[CortxA8] 	The Slave Ratio Search Program Values are... 
+[CortxA8] ***************************************************************
+[CortxA8] PARAMETER                       MAX  |  MIN  | OPTIMUM |  RANGE	
+[CortxA8] ***************************************************************
+[CortxA8] DATA_PHY_RD_DQS_SLAVE_RATIO    0x06a | 0x000 |  0x035  | 0x06a
+[CortxA8] DATA_PHY_FIFO_WE_SLAVE_RATIO   0x12f | 0x000 |  0x097  | 0x12f
+[CortxA8] DATA_PHY_WR_DQS_SLAVE_RATIO    0x071 | 0x003 |  0x03a  | 0x06e
+[CortxA8] DATA_PHY_WR_DATA_SLAVE_RATIO   0x0ae | 0x03f |  0x076  | 0x06f
+[CortxA8] ***************************************************************
+[CortxA8] 
+[CortxA8] ===== END OF TEST =====
+
